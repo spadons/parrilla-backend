@@ -1,0 +1,15 @@
+{
+  "name": "parrilla-backend",
+  "version": "1.0.0",
+  "description": "BackEnd del controlador de la parrilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "max6675-raspi": "^0.0.13"
+  }
+}
